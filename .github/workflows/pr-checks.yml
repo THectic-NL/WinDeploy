@@ -39,7 +39,7 @@ jobs:
       contents: read
       pull-requests: write
     env:
-      HUGO_VERSION: 0.166.0
+      HUGO_VERSION: 0.167.0
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
